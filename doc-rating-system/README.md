@@ -1,6 +1,6 @@
 # 🩺 Doctor Performance Rating System
 
-**Internship Project – Innopharm Indonesia (2024)**  
+**Internship Project – Innopharm Indonesia (Pharos Group) - 2024**  
 📍 *Python, Pandas, LangChain, Jupyter Notebook*
 
 ### 📌 Objective
