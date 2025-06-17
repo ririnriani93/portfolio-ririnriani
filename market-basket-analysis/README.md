@@ -1,6 +1,6 @@
 # 🛒 Market Basket Analysis (Confidential Project)
 
-**Internship Project – Innopharm Indonesia (2023)**  
+**Internship Project – PT Pharos Indonesia (2023)**  
 📍 *Python, Pandas, Visual Studio Code*
 
 ### 📌 Objective
