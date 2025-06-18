@@ -1,0 +1,11 @@
+transactionid;customerid;product;quantity
+T001;C002;obat sirup A;1
+T001;C002;obat tablet B;2
+T002;C003;suplemen C;1
+T003;C001;obat tablet D;3
+T003;C001;sumplemen E;1
+T004;C002;vitamin F;2
+T005;C003;obat sirup A;1
+T005;C003;obat tablet D;1
+T002;C001;suplemen C;2
+T004;C002;suplemen E;1
