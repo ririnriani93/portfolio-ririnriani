@@ -1,0 +1,21 @@
+ConsulID;DoctorID;DoctorName;CustomerName;CustomerGender;ConsultationFormStatus;PrescriptionStatus;AbandoneYN;Sender;Message;Time
+100000;9999;dr. Andika Prasetya;Customer B;Wanita;N;N;N;Doctor;Apakah bisa diberikan resep obat flu?;08/08/2023 21:30
+100001;9999;dr. Nirmala Dewi;Customer B;Pria;Y;Y;N;Doctor;Form sudah saya lengkapi, dok.;08/08/2023 21:33
+100002;9999;dr. Nirmala Dewi;Customer B;Pria;Y;Y;N;Customer;Apakah aman untuk ibu menyusui?;08/08/2023 21:36
+100003;9999;dr. Nirmala Dewi;Customer B;Wanita;Y;N;Y;Customer;Saya sering merasa lemas dan pusing.;08/08/2023 21:39
+100004;9999;dr. Andika Prasetya;Customer D;Pria;N;N;N;Customer;Saya sering merasa lemas dan pusing.;08/08/2023 21:42
+100005;9999;dr. Andika Prasetya;Customer B;Wanita;Y;N;N;Doctor;Keluhan saya nyeri perut bagian bawah.;08/08/2023 21:45
+100006;9999;dr. Nirmala Dewi;Customer C;Pria;Y;N;N;Doctor;Keluhan saya nyeri perut bagian bawah.;08/08/2023 21:48
+100007;9999;dr. Andika Prasetya;Customer D;Pria;N;N;Y;Customer;Sesi konsultasi ini telah selesai, terima kasih.;08/08/2023 21:51
+100008;9999;dr. Andika Prasetya;Customer C;Wanita;N;N;N;Doctor;Halo, saya dokter akan menjawab pertanyaan anda seputar kesehatan.;08/08/2023 21:54
+100009;9999;dr. Nirmala Dewi;Customer C;Wanita;N;Y;N;Customer;Apakah bisa diberikan resep obat flu?;08/08/2023 21:57
+100010;9999;dr. Andika Prasetya;Customer B;Pria;N;N;Y;Customer;Terima kasih banyak dok.;08/08/2023 22:00
+100011;9999;dr. Nirmala Dewi;Customer C;Pria;Y;N;Y;Doctor;Form sudah saya lengkapi, dok.;08/08/2023 22:03
+100012;9999;dr. Andika Prasetya;Customer C;Pria;Y;N;N;Customer;Obat ini diminum sebelum atau sesudah makan?;08/08/2023 22:06
+100013;9999;dr. Nirmala Dewi;Customer C;Wanita;N;Y;N;Customer;Apakah bisa diberikan resep obat flu?;08/08/2023 22:09
+100014;9999;dr. Nirmala Dewi;Customer D;Wanita;Y;N;N;Customer;Terima kasih banyak dok.;08/08/2023 22:12
+100015;9999;dr. Andika Prasetya;Customer C;Pria;Y;N;Y;Customer;Keluhan saya nyeri perut bagian bawah.;08/08/2023 22:15
+100016;9999;dr. Andika Prasetya;Customer D;Wanita;N;N;Y;Customer;Saya sering merasa lemas dan pusing.;08/08/2023 22:18
+100017;9999;dr. Andika Prasetya;Customer B;Wanita;Y;N;Y;Customer;Sudah dok, saya paham. Terima kasih.;08/08/2023 22:21
+100018;9999;dr. Nirmala Dewi;Customer A;Pria;Y;Y;Y;Doctor;Sudah dok, saya paham. Terima kasih.;08/08/2023 22:24
+100019;9999;dr. Nirmala Dewi;Customer C;Wanita;Y;N;Y;Customer;Mohon penjelasan hasil lab kemarin dok.;08/08/2023 22:27
